@@ -1,2 +1,2 @@
-# Purchase_Amount
-Beginning code for a purchase amount. 
+# CS1
+All beginner code from Computer Science 1 
